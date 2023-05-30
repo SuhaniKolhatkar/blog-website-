@@ -1,0 +1,48 @@
+body{
+  font-family: 'Gochi Hand', cursive;
+  font-weight:400 ;
+  background-image: url('https://i.pinimg.com/736x/85/65/4d/85654d795cf75b54ae8418d387b34ba8.jpg');
+  background-size: 2000px;
+}
+
+h1{
+  font-weight: 400;
+  font-size: 4.5rem;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  color: #191A19;
+  padding-top:5% ;
+}
+h2{
+font-weight: normal;
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
+  color: #B85C38;
+}
+h3{
+  font-weight: 400;
+  font-size: 3.5rem;
+  text-align: left;
+  color: #1E5128;
+  padding:5% ;
+  }
+
+.title-paragraph{
+  text-align: center;
+  padding: 5%;
+font-size: 1.3rem;
+  color: #1E5128;
+  font-style: italic;
+
+}
+/* blogs */
+#travel{
+  padding: 7% 15%;
+  font-weight: 400;
+  font-size: 1.7rem;
+
+}
+.travel-div{
+  padding:5% 0;
+}

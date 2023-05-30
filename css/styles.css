@@ -1,0 +1,58 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  background-image: url('https://img.freepik.com/free-vector/watercolor-stains-abstract-background_23-2149107179.jpg');
+  background-size: 2000px;
+}
+
+
+h1{
+  font-weight: 800;
+  font-size: 5.5rem;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  color: #444444;
+  padding:7% 15%;
+}
+h2{
+font-weight: normal;
+  font-size: 1.5rem;
+  font-style: italic;
+  text-align: center;
+}
+
+/* Navbar elements  */
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: 400;
+  font-family: 'Montserrat';
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+  position: fixed;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat'
+}
+.title-paragraph{
+  text-align: center;
+  padding: 5%;
+
+}
+/* Carousal */
+.carousel{
+  margin:7% 15%;
+}
+/* footer */
+.footer-para{
+  font-size: .9rem;
+  text-align: center;
+}

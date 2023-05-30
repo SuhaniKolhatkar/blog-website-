@@ -1,0 +1,47 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:400 ;
+  background-image: url('https://img.freepik.com/free-photo/watercolor-burgundy-background-texture-hand-painted-vintage-watercolour-deep-crimson-background-stains-paper_145343-179.jpg');
+  background-size: 2000px;
+}
+
+h1{
+  font-weight: 400;
+  font-size: 4.5rem;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  color: #ffff;
+  padding-top:5% ;
+}
+h2{
+font-weight: normal;
+  font-size: 1.5rem;
+  font-style: italic;
+  text-align: center;
+  color: #ffff;
+}
+h3{
+  font-weight: 400;
+  font-size: 3rem;
+  text-align: left;
+  color: #DDDDDD;
+  padding:5% ;
+  }
+
+.title-paragraph{
+  text-align: center;
+  padding: 5%;
+  color: #C4B6B6;
+  font-style: italic;
+ font-size: 1rem;
+}
+/* blogs */
+#love{
+  padding: 7% 15%;
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: #ffff;
+}
+.love-div{
+  padding:5% 0;
+}
